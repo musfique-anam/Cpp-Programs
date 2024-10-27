@@ -1,2 +1,2 @@
 # C++Fundamentals
-Basic C++ Fundamentals codes for beginners.
+Basic C++ Fundamental codes for beginners.
